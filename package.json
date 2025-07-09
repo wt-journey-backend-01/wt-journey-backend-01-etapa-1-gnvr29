@@ -17,6 +17,7 @@
   "homepage": "https://github.com/ACR-Wonderland/etapa-1-levty#readme",
   "description": "",
   "dependencies": {
+    "angular": "^1.8.3",
     "express": "^5.1.0"
   }
 }
